@@ -1,6 +1,6 @@
 # Inverted Pendulum — Real-Time Control Lab
 
-**`MATLAB`** &nbsp;|&nbsp; **`Simulink`** &nbsp;|REPLACE|&nbsp; **`State Feedback`** &nbsp;|&nbsp; **`Quanser IP02`**
+**`MATLAB`** &nbsp;|&nbsp; **`Simulink`** &nbsp;|&nbsp; **`LQR`** &nbsp;|&nbsp; **`State Feedback`** &nbsp;|&nbsp; **`Quanser IP02`**
 
 Hardware-in-the-loop control experiments on the Quanser IP02 single inverted pendulum (SIP) cart system. All experiments use the linearised state-space model around the upright equilibrium.
 
